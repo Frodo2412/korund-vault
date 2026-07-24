@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f677a2b1dc8163f1",
+        "id": "77a6cfe62c4e0b2b",
         "type": "tabs",
         "children": [
           {
-            "id": "6a43eb70ed76fe2b",
+            "id": "35dbfe671510bfae",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "The Dragon Wars/Sessions/1. Red Sky at Dawn.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "1. Red Sky at Dawn"
             }
           }
         ]
@@ -219,15 +219,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6a43eb70ed76fe2b",
+  "active": "35dbfe671510bfae",
   "lastOpenFiles": [
+    "The Dragon Wars/Players/Izo'Ress.md",
+    "The Dragon Wars/Players/Pew Pew.md",
     "The Dragon Wars/Players/Diego Fernandez.md",
     "The Dragon Wars/Players/Visas Tarithi Sekamalitha.md",
     "The Dragon Wars/Sessions/1. Red Sky at Dawn.md",
     "Articles/History of Valderia.md",
     "The Dragon Wars/Players/???.md",
-    "The Dragon Wars/Players/Pew Pew.md",
-    "The Dragon Wars/Players/Izo'Ress.md",
     "The Dragon Wars/NPCs/Iron Dragon Guardian.md",
     "The Dragon Wars/NPCs/Brass Dragon Guardian.md",
     "The Dragon Wars/NPCs/Copper Dragon Guardian.md",
