@@ -32,3 +32,4 @@ bonus_actions:
   - name: "Vice Grip"
     desc: "Draukan attempts to grapple one Large or smaller creature within 5 feet (escape DC 15). While grappled this way, the target's speed becomes 0."
 ```
+ 99

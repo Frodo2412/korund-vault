@@ -9,6 +9,46 @@
       "level": 3,
       "modifier": -1,
       "player": true
+    },
+    {
+      "note": "???",
+      "path": "The Dragon Wars/Players/???.md",
+      "name": "???",
+      "ac": 13,
+      "hp": 27,
+      "level": 3,
+      "modifier": 5,
+      "player": true
+    },
+    {
+      "note": "Izo'Ress",
+      "path": "The Dragon Wars/Players/Izo'Ress.md",
+      "name": "Izo'Ress",
+      "ac": 13,
+      "hp": 36,
+      "level": 3,
+      "modifier": 2,
+      "player": true
+    },
+    {
+      "note": "Pew Pew",
+      "path": "The Dragon Wars/Players/Pew Pew.md",
+      "name": "Pew Pew",
+      "ac": 16,
+      "hp": 36,
+      "level": 3,
+      "modifier": 4,
+      "player": true
+    },
+    {
+      "note": "Diego Fernandez",
+      "path": "The Dragon Wars/Players/Diego Fernandez.md",
+      "name": "Diego Fernandez",
+      "ac": 17,
+      "hp": 36,
+      "level": 3,
+      "modifier": 2,
+      "player": true
     }
   ],
   "parties": [],

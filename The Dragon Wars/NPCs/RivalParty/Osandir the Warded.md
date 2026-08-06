@@ -35,3 +35,4 @@ reactions:
   - name: Parry
     desc: "Trigger: Ossandir is hit by a melee attack roll while holding a weapon. Response: he adds 3 to his AC against that attack, possibly causing it to miss."
 ```
+

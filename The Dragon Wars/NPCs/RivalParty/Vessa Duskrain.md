@@ -28,3 +28,5 @@ actions:
   - name: "Paralyzing Breath (Recharge 5-6)"
     desc: "Each creature in a 15-foot cone must make a DC 15 Constitution saving throw. First Failure: the target has the incapacitated condition until the end of its next turn, when it repeats the save. Second Failure: the target has the paralyzed condition, repeating the save at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically."
 ```
+
+

@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -156,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Dragon Wars/Players/Diego Fernandez.md",
+                "file": "The Dragon Wars/Sessions/1. Red Sky at Dawn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Diego Fernandez"
+              "title": "Outline"
             }
           },
           {
@@ -197,6 +199,25 @@
           }
         ],
         "currentTab": 7
+      },
+      {
+        "id": "2ab54dd2f2e1d311",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "884b8801ba6fede2",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {
+                "creatureId": null,
+                "creatureName": null
+              },
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,36 +240,38 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "35dbfe671510bfae",
+  "active": "fc44bd38ab3e758c",
   "lastOpenFiles": [
+    "The Dragon Wars/NPCs/Guardians/Brass Dragon Guardian.md",
+    "The Dragon Wars/NPCs/RivalParty/Ferrin Quickscale.md",
+    "The Dragon Wars/NPCs/Guardians/Bronce Dragon Guardian.md",
+    "The Dragon Wars/NPCs/RivalParty/Vessa Duskrain.md",
+    "The Dragon Wars/NPCs/RivalParty/Osandir the Warded.md",
+    "The Dragon Wars/Overview.md",
+    "The Dragon Wars/Regions/Edenia.md",
+    "The Dragon Wars/Regions",
+    "The Dragon Wars/NPCs/RivalParty/Kaerivos Sunmark.md",
+    "The Dragon Wars/NPCs/RivalParty/Draukan Ironclaw.md",
+    "The Dragon Wars/Players/Visas Tarithi Sekamalitha.md",
+    "The Dragon Wars/Players/Pew Pew.md",
+    "The Dragon Wars/Players/Izo'Ress.md",
+    "The Dragon Wars/Players/Diego Fernandez.md",
+    "The Dragon Wars/Sessions/1. Red Sky at Dawn.md",
     "Maps/Mountain Monastery - Original Day [18x31].jpg",
     "Maps/Mountain Monastery - Broken Bridge Day [18x31].jpg",
     "Maps/Green Dragon Lair - Portal [24x54].jpg",
-    "The Dragon Wars/Sessions/1. Red Sky at Dawn.md",
     "Maps/Moth God Temple - No Destruction Day [33x56].jpg",
     "Maps",
-    "The Dragon Wars/NPCs/RivalParty/Draukan Ironclaw.md",
-    "The Dragon Wars/NPCs/RivalParty/Vessa Duskrain.md",
-    "The Dragon Wars/NPCs/RivalParty/Ferrin Quickscale.md",
-    "The Dragon Wars/NPCs/RivalParty/Osandir the Warded.md",
     "The Dragon Wars/Players/???.md",
-    "The Dragon Wars/Players/Diego Fernandez.md",
     "The Dragon Wars/NPCs/Guardians/Golden Dragon Guardian.md",
     "The Dragon Wars/NPCs/Guardians/Iron Dragon Guardian.md",
     "The Dragon Wars/NPCs/RivalParty",
-    "The Dragon Wars/Players/Pew Pew.md",
     "The Dragon Wars/NPCs/Guardians",
-    "The Dragon Wars/Players/Izo'Ress.md",
-    "The Dragon Wars/NPCs/RivalParty/Kaerivos Sunmark.md",
-    "The Dragon Wars/Players/Visas Tarithi Sekamalitha.md",
     "Articles/History of Valderia.md",
-    "The Dragon Wars/NPCs/Guardians/Brass Dragon Guardian.md",
     "The Dragon Wars/NPCs/Guardians/Copper Dragon Guardian.md",
-    "The Dragon Wars/NPCs/Guardians/Bronce Dragon Guardian.md",
     "The Dragon Wars/NPCs/Guardians/Silver Dragon Guardian.md",
     "The Dragon Wars/NPCs",
     "The Dragon Wars/Players",
-    "The Dragon Wars/Overview.md",
     "Elfos.md",
     "Untitled.md",
     "Welcome.md",

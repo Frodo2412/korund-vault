@@ -1,5 +1,6 @@
 ---
 race: "[[Dragonborn]]"
+statblock: inline
 ---
 
 ```statblock
