@@ -4,7 +4,7 @@ hp: "27"
 ac: "13"
 modifier: "5"
 guardian: "[[Brass Dragon Guardian]]"
-race: "[[Gnome]]"
+race: "[[Gnomes|Gnome]]"
 class: Wizard
 ---
 Player: Mateo Gretter

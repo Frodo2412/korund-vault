@@ -1,0 +1,9 @@
+---
+aliases:
+  - Gnome
+---
+
+* Nobody knows where gnomes actually come from
+* They are exceedingly rare to see in practice, even though they might actually inhabit all corners of the world
+* They are magical incarnations of extremely specific ideas and concepts, such as [[La repentina atencion que presta el raton de bosque, justo antes del ataque del buho, el cual cosecha su vida en un instante]]
+* They don't have a society and culture as such, but instead they live completely embedded in other societies, completely hidden while making their presence known via extremely small changes such as lost objects, misplaced things, altered memories, etc.
