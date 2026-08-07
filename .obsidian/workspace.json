@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Dwarf.md",
+                "file": "The Dragon Wars/Sessions/2. 150 Years Later.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dwarf"
+              "title": "2. 150 Years Later"
             }
           }
         ]
@@ -96,17 +96,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Dragon Wars/Overview.md",
+                "file": "The Dragon Wars/Sessions/2. 150 Years Later.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Overview"
+              "title": "Backlinks"
             }
           },
           {
@@ -115,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Dragon Wars/Overview.md",
+                "file": "The Dragon Wars/Sessions/2. 150 Years Later.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Overview"
+              "title": "Outgoing links"
             }
           },
           {
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Articles/Dwarf.md",
+                "file": "The Dragon Wars/Sessions/2. 150 Years Later.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -240,47 +240,47 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9b3239d9526e0779",
+  "active": "fc44bd38ab3e758c",
   "lastOpenFiles": [
-    "Articles/Humans.md",
+    "The Dragon Wars/Players/Izo'Ress.md",
+    "The Dragon Wars/Players/Pew Pew.md",
+    "The Dragon Wars/Players/Visas Tarithi Sekamalitha.md",
+    "The Dragon Wars/NPCs/Important NPCs/Nossu’Izumi.md",
+    "The Dragon Wars/Regions/Edenia.md",
+    "The Dragon Wars/NPCs/Allies/Dobleena Dakiti Serafatin.md",
+    "Maps/Mountain Monastery - Broken Bridge Day [18x31].jpg",
+    "The Dragon Wars/NPCs/Guardians/Brass Dragon Guardian.md",
+    "The Dragon Wars/NPCs/Guardians/Bronce Dragon Guardian.md",
+    "The Dragon Wars/NPCs/Guardians/Copper Dragon Guardian.md",
+    "The Dragon Wars/NPCs/Guardians/Golden Dragon Guardian.md",
+    "The Dragon Wars/NPCs/Guardians/Iron Dragon Guardian.md",
+    "The Dragon Wars/NPCs/Guardians/Silver Dragon Guardian.md",
+    "The Dragon Wars/NPCs/RivalParty/Osandir the Warded.md",
+    "The Dragon Wars/NPCs/RivalParty/Kaerivos Sunmark.md",
+    "The Dragon Wars/NPCs/RivalParty/Draukan Ironclaw.md",
+    "The Dragon Wars/NPCs/RivalParty/Ferrin Quickscale.md",
+    "The Dragon Wars/Players/La repentina atencion que presta el raton de bosque, justo antes del ataque del buho, el cual cosecha su vida en un instante.md",
+    "The Dragon Wars/NPCs/Important NPCs",
+    "The Dragon Wars/Sessions/2. 150 Years Later.md",
     "Articles/Dwarf.md",
+    "Articles/Humans.md",
     "Articles/Dragonborn.md",
     "Articles/Yuan-Ti.md",
     "Articles/Gnome.md",
-    "The Dragon Wars/Players/La repentina atencion que presta el raton de bosque, justo antes del ataque del buho, el cual cosecha su vida en un instante.md",
     "Articles/Orcs.md",
     "Articles/Goliath.md",
     "Articles/Elves.md",
-    "Articles/History of Valderia.md",
-    "The Dragon Wars/Regions/Edenia.md",
-    "The Dragon Wars/NPCs/Allies/Dobleena Dakiti Serafatin.md",
-    "The Dragon Wars/Sessions/1. Red Sky at Dawn.md",
     "The Dragon Wars/NPCs/Allies",
-    "The Dragon Wars/NPCs/Guardians/Brass Dragon Guardian.md",
-    "The Dragon Wars/NPCs/RivalParty/Ferrin Quickscale.md",
-    "The Dragon Wars/NPCs/Guardians/Bronce Dragon Guardian.md",
-    "The Dragon Wars/NPCs/RivalParty/Vessa Duskrain.md",
-    "The Dragon Wars/NPCs/RivalParty/Osandir the Warded.md",
-    "The Dragon Wars/Overview.md",
     "The Dragon Wars/Regions",
-    "The Dragon Wars/NPCs/RivalParty/Kaerivos Sunmark.md",
-    "The Dragon Wars/NPCs/RivalParty/Draukan Ironclaw.md",
-    "The Dragon Wars/Players/Visas Tarithi Sekamalitha.md",
-    "The Dragon Wars/Players/Pew Pew.md",
-    "The Dragon Wars/Players/Izo'Ress.md",
-    "The Dragon Wars/Players/Diego Fernandez.md",
     "Maps/Mountain Monastery - Original Day [18x31].jpg",
-    "Maps/Mountain Monastery - Broken Bridge Day [18x31].jpg",
     "Maps/Green Dragon Lair - Portal [24x54].jpg",
     "Maps/Moth God Temple - No Destruction Day [33x56].jpg",
     "Maps",
-    "The Dragon Wars/NPCs/Guardians/Golden Dragon Guardian.md",
     "The Dragon Wars/NPCs/RivalParty",
     "The Dragon Wars/NPCs/Guardians",
     "The Dragon Wars/NPCs",
     "The Dragon Wars/Players",
     "The Dragon Wars/Sessions",
-    "Articles",
-    "The Dragon Wars"
+    "Articles"
   ]
 }

@@ -17,11 +17,11 @@ Días más tarde fue encontrada y fue tomada en adopción por Sesseli’Ress un 
 
 Durante 4 años aprendió los gajes del oficio hasta que la Disecdisis Ósea de Sesseli’Ress avanzó demasiado. Una enfermedad muy cruel que afecta a 1 cada 10.000 Yuan Tis, su muda de piel se calcifica tornándose hueso y comprimiendo al afectado hasta sofocarlo. Y en el correr del año, Sesseli’Ress falleció. Durante ese último año Izo’Ress tomando su apellido adoptivo tomó también las riendas del trabajo para el que Sesseli la estuvo preparando. 
 
-De sus 10 a sus 13 años trabajó bajo el mandato directo de Skaldenigax, conociendo así a otros Yuan Ti que trabajaban para él, entre otros, Nossu’Izumi quien se convertiría en su peor rival. 
+De sus 10 a sus 13 años trabajó bajo el mandato directo de Skaldenigax, conociendo así a otros Yuan Ti que trabajaban para él, entre otros, [[Nossu’Izumi]] quien se convertiría en su peor rival. 
 
 Una fatídica noche, Izo fue a visitar a Skaldenigax y en la charla Izo notó que la mente de su señor y amo no es lo que era. Se lo notaba distraído, no pudiendo conectar muchas ideas. Y al inspeccionar sutilmente su cuerpo encontró debajo de una escama, una estaca de un extraño mineral de tenue brillo verdoso embetunado en una sustancia ocre que parecía entrar bajo una antigua herida del dragón. 
 
-Durante los siguientes meses, Izo se encargó de vigilar a los distintos siervos de Skaldenigax a medida que la cordura abandonaba su cavidad craneal. Siguiendo a Nossu, ella descubrió unas notas que hablaban de la estaca y decidió robarlas para encontrar una forma de curar a su amo. Pero, Nossu vio los intentos de Izo y movió sus propios hilos para culparla del malestar de su amo. 
+Durante los siguientes meses, Izo se encargó de vigilar a los distintos siervos de Skaldenigax a medida que la cordura abandonaba su cavidad craneal. Siguiendo a [[Nossu’Izumi|Nossu]], ella descubrió unas notas que hablaban de la estaca y decidió robarlas para encontrar una forma de curar a su amo. Pero, [[Nossu’Izumi|Nossu]] vio los intentos de Izo y movió sus propios hilos para culparla del malestar de su amo. 
 
 A la siguiente noche, Izo hubo abandonado el recinto para no volver jamás, se ocultó en un pantano durante varios días hasta que su búsqueda cesó. Se enfrentó a la cruda realidad de valerse enteramente por sí misma en un mundo cruel que no te da nada en bandeja. 
 
