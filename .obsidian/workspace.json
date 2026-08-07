@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Dragon Wars/Sessions/1. Red Sky at Dawn.md",
+                "file": "Articles/Dwarf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Red Sky at Dawn"
+              "title": "Dwarf"
             }
           }
         ]
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Dragon Wars/Sessions/1. Red Sky at Dawn.md",
+                "file": "Articles/Dwarf.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -240,15 +240,28 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fc44bd38ab3e758c",
+  "active": "9b3239d9526e0779",
   "lastOpenFiles": [
+    "Articles/Humans.md",
+    "Articles/Dwarf.md",
+    "Articles/Dragonborn.md",
+    "Articles/Yuan-Ti.md",
+    "Articles/Gnome.md",
+    "The Dragon Wars/Players/La repentina atencion que presta el raton de bosque, justo antes del ataque del buho, el cual cosecha su vida en un instante.md",
+    "Articles/Orcs.md",
+    "Articles/Goliath.md",
+    "Articles/Elves.md",
+    "Articles/History of Valderia.md",
+    "The Dragon Wars/Regions/Edenia.md",
+    "The Dragon Wars/NPCs/Allies/Dobleena Dakiti Serafatin.md",
+    "The Dragon Wars/Sessions/1. Red Sky at Dawn.md",
+    "The Dragon Wars/NPCs/Allies",
     "The Dragon Wars/NPCs/Guardians/Brass Dragon Guardian.md",
     "The Dragon Wars/NPCs/RivalParty/Ferrin Quickscale.md",
     "The Dragon Wars/NPCs/Guardians/Bronce Dragon Guardian.md",
     "The Dragon Wars/NPCs/RivalParty/Vessa Duskrain.md",
     "The Dragon Wars/NPCs/RivalParty/Osandir the Warded.md",
     "The Dragon Wars/Overview.md",
-    "The Dragon Wars/Regions/Edenia.md",
     "The Dragon Wars/Regions",
     "The Dragon Wars/NPCs/RivalParty/Kaerivos Sunmark.md",
     "The Dragon Wars/NPCs/RivalParty/Draukan Ironclaw.md",
@@ -256,29 +269,18 @@
     "The Dragon Wars/Players/Pew Pew.md",
     "The Dragon Wars/Players/Izo'Ress.md",
     "The Dragon Wars/Players/Diego Fernandez.md",
-    "The Dragon Wars/Sessions/1. Red Sky at Dawn.md",
     "Maps/Mountain Monastery - Original Day [18x31].jpg",
     "Maps/Mountain Monastery - Broken Bridge Day [18x31].jpg",
     "Maps/Green Dragon Lair - Portal [24x54].jpg",
     "Maps/Moth God Temple - No Destruction Day [33x56].jpg",
     "Maps",
-    "The Dragon Wars/Players/???.md",
     "The Dragon Wars/NPCs/Guardians/Golden Dragon Guardian.md",
-    "The Dragon Wars/NPCs/Guardians/Iron Dragon Guardian.md",
     "The Dragon Wars/NPCs/RivalParty",
     "The Dragon Wars/NPCs/Guardians",
-    "Articles/History of Valderia.md",
-    "The Dragon Wars/NPCs/Guardians/Copper Dragon Guardian.md",
-    "The Dragon Wars/NPCs/Guardians/Silver Dragon Guardian.md",
     "The Dragon Wars/NPCs",
     "The Dragon Wars/Players",
-    "Elfos.md",
-    "Untitled.md",
-    "Welcome.md",
-    "The Dragon Wars/Untitled.md",
     "The Dragon Wars/Sessions",
     "Articles",
-    "Myrodia.md",
     "The Dragon Wars"
   ]
 }

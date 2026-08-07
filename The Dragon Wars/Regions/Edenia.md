@@ -11,10 +11,11 @@ For the last 150 years it has been under the rule of tyrant Kaerivos Sunmark, wh
 
 # Locations in Edenia
 
-## Forced work camps
+## Refugee Camp
 
-The former residents of Edenia now work as slaves in the camps, they await liberation.
-## The Iron Fortress
+Located in a set of caverns beneath the valley, a small resistance still holds out. While some here push for driving the fight back to the dragon, they are a minority and the priority of the camp is to remain hidden from the dragons until the proper time to strike comes.
 
-Built atop the temple of the dragons, it stands at the top of a mountain overlooking the entire valley. This is the seat of government from where Kaerivos rules.
-## 
+Important NPCs:
+* [[Dobleena Dakiti Serafatin]]: Leader of the refugee camp, she's a tough Goliath fighter who found refuge in the valley as a child. Her family got killed during the attack where the dragons took over the valley at the start of the campaign. While she's now old and her fighting prowess is not what it was, she can still assist the player and provide them strategic and tactical info. 
+* [[Pytheas Melikertes]]: Elvish priest that had been taking care of the temple for eons before the war got here. He's mild mannered and his priority is the wellbeing of the community. He can provide healing services to the player, as well as explaining lore and answering other questions about the world. He refuses to leave the refugees, adamant that the guardians will come back to save them and make things right. 
+* [[]]
